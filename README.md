@@ -69,9 +69,10 @@ To get started with these projects, follow these instructions:
 - ☕ Java Development Kit (JDK) 8 or later
 - 💻 Integrated Development Environment (IDE) such as Eclipse, IntelliJ IDEA, or Visual Studio Code
 
-### Cloning the Repository
+## 📫 Contact
 
-Clone the repository using the following command:
+For any questions or inquiries, please contact me at [pmt03102002@gmail.com](mailto:pmt03102002@gmail.com).
 
-```bash
-git clone https://github.com/ManojkumarVijayakumar/LGMVIP-Java-Task-Number.git
+---
+
+Thank you for checking out my LetsGrowMore Java Internship projects!
